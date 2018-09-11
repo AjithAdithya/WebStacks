@@ -1,0 +1,187 @@
+body
+{
+    font-family: 'Helvetica', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+    margin: 0;
+}
+.Top
+{
+    width: auto;
+    height: 82px;
+    background-image: linear-gradient(#4e69a1,#3b5997);
+    font-size: 12px;
+    color: #ffffff;
+}
+#Login
+{
+    background-color: #4267b2;
+    color: #ffffff;
+    text-decoration-color: #ffffff;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color:#29487d;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 2px 6px;
+    text-align: center;
+    
+    
+}
+#Login:hover
+{
+    background-color: transparent;
+    color: #ffffff;
+    text-decoration-color: #ffffff;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color:#29487d;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 2px 6px;
+    text-align: center;
+    
+    
+}
+#Login:active
+{
+    background-color:#f5f6f7;
+    color: #4267b2;
+    text-decoration-color: #4267b2;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color:#ccd0d5;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 2px 6px;
+    text-align: center;
+    
+}
+
+#Top-Right-Table
+{
+    size:392 65;
+    align-self: center;
+}
+#username-input,#password-input
+{
+    width:140px;
+    height: 15px;
+}
+.Input-Container-Label
+{
+    padding-bottom:  4px;
+    padding-left: 14px;
+}
+.Top-Container
+{
+    margin:auto;
+    width:980px;
+    height:69px;
+    padding-top: 10px;
+}
+.Top-Right
+{
+    float: right;
+}
+.Top-Left
+{
+    padding-top: 20px;
+    float: left;
+}
+.Input-Container
+{
+    padding-left: 14px;
+}
+.Login-Label
+{
+    padding-left: 14px;
+    
+}
+#Forgot-a
+{
+        color: #9cb4d8; 
+        text-decoration: none;
+}
+#Forgot-a:hover
+{
+        color: #9cb4d8;
+        text-decoration: underline;
+}
+.Bottom
+{
+    background-image: linear-gradient(#ffffff,#d8dcea);
+    height:572.5px;
+}
+.Bottom-Container
+{
+    width: 980px;
+    margin:auto;
+}
+.Bottom-Left
+{
+    float: left;
+    width: 580px;
+}
+.Bottom-Left-Text
+{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0e385f;
+    margin-top: 40px;
+    width:480px;
+    line-height:27px;
+}
+.Bottom-Right
+{
+    float: right;
+    width:400px;
+}
+.Bottom-Right-Text
+{
+    width:400px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.Bottom-Right-Text1
+{
+    font: 'Freight Sans';
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 120%;
+    color: #333;
+    margin-bottom: 5px;
+    
+}
+.Bottom-Right-Text2
+{
+    font: 'Freight Sans';
+    font-weight:normal !important;
+    font-size: 19px;
+    line-height: 126%;
+    color: #333;
+    margin-bottom: 20 px;
+
+}
+.Sign-Form
+{
+    background-color: transparent;
+    position: relative;
+}
+}
+.Name
+{
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+}
+.Sign-Up-Button
+{
+    
+}
