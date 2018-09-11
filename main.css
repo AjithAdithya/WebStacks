@@ -181,7 +181,219 @@ body
     border-radius: 5px;
     margin: 0;
 }
-.Sign-Up-Button
+.Sign-Up-Button-div
 {
-    
+    width:400px;
+    height:59px;
+}
+#Sign-Up-Button
+{
+    background-image:linear-gradient(#67ae55, #578843);
+    box-shadow: inset 0 1px 1px #a4e388;
+    color: #ffffff;
+    text-decoration-color: #ffffff;
+    border-width: 0.5px;
+    border-style: solid;
+    border-top-color: rgb(59, 110, 34);
+    border-right-color: rgb(59, 110, 34);
+    border-bottom-color: rgb(44, 81, 21);
+    border-left-color: rgb(59, 110, 34);
+    border-radius: 5px;
+    font-size: 19px;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    font-weight: 600;
+    text-rendering: optimizeLegibility;
+    line-height: 126%;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#Sign-Up-Button:hover
+{
+    background-image:linear-gradient(#81cf6d, #578843);
+    box-shadow: inset 0 1px 1px #a4e388;
+    color: #ffffff;
+    text-decoration-color: #ffffff;
+    border-width: 0.5px;
+    border-style: solid;
+    border-top-color: rgb(59, 110, 34);
+    border-right-color: rgb(59, 110, 34);
+    border-bottom-color: rgb(44, 81, 21);
+    border-left-color: rgb(59, 110, 34);
+    border-radius: 5px;
+    font-size: 19px;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    font-weight: 600;
+    text-rendering: optimizeLegibility;
+    line-height: 126%;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#terms-link,#privacy-link,#cookie-use-link
+{
+    font-size: 11px;
+    text-decoration: none;
+    color: #365899;
+ 
+}
+.birthday-help
+{
+    font-size: 11px;
+    text-decoration: none;
+    color: #365899;
+    width:150px;
+    padding-left: 5px;
+    height:28px;
+    display: inline-block;
+    max-width: 140px;
+    vertical-align: middle;
+}
+
+.helpx
+{
+    font-size: 11px;
+    text-decoration: none;
+    width:316px;
+    color: #767676;
+}
+.birthday-help:hover,#terms-link:hover,#privacy-link:hover,#cookie-use-link:hover
+{
+    font-size: 11px;
+    text-decoration: underline;
+    width:316px;
+}
+#Birthday
+{
+    width:400px;
+}
+.inputtext
+{
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    border-style: solid;
+    border-width: 1px;
+    width: 172px;
+    align-self: auto;
+}
+#Surname
+{
+    float: right;
+}
+.Name,.Mobile,.New-Password{
+    width:399px;
+    height:49px;
+}
+.inputtext2
+{
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    border-style: solid;
+    border-width: 1px;
+    width: 377px;
+}
+.Birthday-Text
+{
+    width:400px;
+    height:24px;
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.Birthday-Selectors
+{
+    display: inline-block;
+    width:400px;
+}
+select
+{
+    font-size: 13px;
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border: 1px solid #bdc7d8;
+    color: black;
+    background-color: white;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+.Birthday-Selectors{
+}
+.Gender
+{
+    padding-top: 10px;
+    margin-top: 10px;
+    width: 400px;
+    height:32px;
+
+}
+.Gender label{
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 10px 0 3px;
+}
+.helpx-cont
+{
+    width: 399px;
+    height:42px;
+    padding-bottom:5px;
+}
+.Links
+{
+    height:50px;
+    background-color: white;
+    align-self: auto;
+}
+
+#Create-Page 
+{
+    font-weight: bold;
+    color:#3a3a3a;
+    font-size: 12px;
+}
+
+#Create-Page a 
+{
+    text-decoration: none;
+    font-weight: bold;
+    color:#365899;
+}
+#Create-Page a:hover 
+{
+    text-decoration: underline;
+}
+#FB
+{
+    float:left;
+    max-width: 100px;
+    padding-top: 20px;
+}
+.Links2
+{
+    width:980px;
+    margin:auto;
+    font-size: 11px;
+    color: #767676;
+}
+#Done
+{
+    max-width: 200px;
+    float:right;
+    padding-top: 20px;
 }
